@@ -5,7 +5,7 @@
  * Date: 16-3-14
  * Time: 上午9:45
  */
-
+// test git here
 $hook_server_name = "亢龙有悔";
 $your_mobile = "17092080427";
 $your_email = "main@rebiekong.com";
